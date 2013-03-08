@@ -14,10 +14,10 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 
 ## Comes with two different colors  ##
 ##### :star: Dark
-![Ciapre Black](https://dl.dropbox.com/u/11357190/Shared%20Images/ciapre-new.PNG)
+![Ciapre Black](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapreblack.png)
 
 ##### :star: Blue
-![Ciapre](https://dl.dropbox.com/u/11357190/Shared%20Images/Ciapre%20ST%20theme%20preview%205%20-sd.PNG)
+![Ciapre](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapreblue.png)
 
 ### *Tips* ###
 Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit.
