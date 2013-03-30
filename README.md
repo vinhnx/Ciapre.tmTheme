@@ -1,8 +1,5 @@
-# Ciapre
+# [Ciapre](https://github.com/vinhnx/Ciapre.tmTheme)
 -----------------
-So you love Sublime Text (who doesn't, really!?) and your job is spending hours in front of this incredible text editor trying to build something awesome, but, eventually, that would hurt your eyes :(
-
-Or say, you're getting tired of those stock color schemes that included in ST and you prefer darken color scheme to the bright ones, then this if for you...
 
 Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
 Based on [Andro](https://github.com/cyrilmengin/andro) color scheme but with more syntax highlighting sweetness.
