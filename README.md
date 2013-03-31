@@ -11,7 +11,7 @@ Just search for `Ciapre` in Package Control & install it. :+1:
 
 Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo ... wait for it ... rite scheme in `Ciapre Color Scheme`!
 
-### Comes with two different colors  ###
+## Comes with two different colors  ##
 --
 
 ##### :star: Dark
@@ -20,7 +20,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 ##### :star: Blue
 ![Ciapre](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapreblue.png)
 
-### Credit ###
+## Credit ##
 --
 
 + [Andro](https://github.com/cyrilmengin/andro) - by Cyril Mengin.
@@ -32,5 +32,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 
 + Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit. You won't be disappointed!
 + Font used `Consolas` - built in Windows, but alternatively, the open-sourced `[Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)` is pretty close to it
+
+--
 
 ~ Happy coding & keep being awesome! ♥ :octocat::shipit:
