@@ -6,7 +6,7 @@ Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
 
 It's based on [Andro](https://github.com/cyrilmengin/andro) color scheme but with more syntax highlighting sweetness.
 
-* Installation:
+##### *Installation* #####
 Just search for `Ciapre` in Package Control & install it. :+1:
 
 Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo ... wait for it ... rite scheme in `Ciapre Color Scheme`!
@@ -28,8 +28,8 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 ##### *Tips* #####
 --
 
-+ Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit. You won't be disappointed!
-+ Font used `Consolas` - built in Windows, but alternatively, the open-sourced `[Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)` is pretty close to it
+* Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit. You won't be disappointed!
+* Font used `Consolas` - built in Windows, but alternatively, the open-sourced `[Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)` is pretty close to it
 
 --
 
