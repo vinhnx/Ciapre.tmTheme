@@ -33,9 +33,9 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 
 ## License ##
 
-Do whatever you want. This is not big deal.
+Well, you can do whatever you want. This is not big deal. 
 
 ***
 
-~ Happy coding & keep being awesome! ♥ :octocat::shipit:
+~ Hope you like it! :)
 
