@@ -1,8 +1,12 @@
 # [Ciapre](https://github.com/vinhnx/Ciapre.tmTheme) #
 
+Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
+
 ***
 
-Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
+**Using Xcode? I also made one for you [here](https://github.com/vinhnx/Ciapre-Xcode-theme)**
+
+***
 
 It's based on [Andro](https://github.com/cyrilmengin/andro) color scheme but with more syntax highlighting sweetness.
 
