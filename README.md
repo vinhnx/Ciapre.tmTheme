@@ -4,7 +4,7 @@ Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
 
 ***
 
-**Using Xcode? I also made one for you [here](https://github.com/vinhnx/Ciapre-Xcode-theme)**
+**[!] Using Xcode? I also made one for you [here](https://github.com/vinhnx/Ciapre-Xcode-theme) :)**
 
 ***
 
@@ -37,7 +37,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 
 ## License ##
 
-Well, you can do whatever you want. This is not big deal. 
+Well, you can do whatever you want. This is not big deal.
 
 ***
 
