@@ -33,7 +33,8 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 --
 
 * Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit. You won't be disappointed!
-* Font used `Consolas` - built in Windows, but alternatively, the open-sourced [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) is pretty close to it
+* Font used `Consolas` - comes with Windows, but alternatively, the open-sourced [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) is pretty close to it
+    * For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
 ## License ##
 
