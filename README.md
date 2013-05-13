@@ -49,3 +49,4 @@ So, I am appreciated if you do! Thank you!
 
 ~ Hope you like it! :)
 
+I'm [@vinhnx](http://twitter.com/vinhnx/) and [@vinh])(http://app.net/vinh) on App.Net.
