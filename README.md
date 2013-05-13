@@ -40,10 +40,10 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 
 Well, you can do whatever you want. This is not big deal.
 
-The only thing I ask is to share this on twitter/facebook/app.net or whatever social network 
-.. or just tell your friends; so that more and more devs who are using Sublime Text would know this color scheme, this is not rocket science but with more eye-pleasing scheme, I hope we could produce more efficient code! ;)
+The only thing I ask is to share this on twitter/facebook/app.net or whatever social network .. or just tell your friends; so that more and more devs who using Sublime Text would know this color scheme. This is not rocket science code, but with more eye-pleasing color scheme for a text editor, I hope we could produce more efficient code! ;)
 
 So, I am appreciated if you do! Thank you!
+
 
 ***
 
