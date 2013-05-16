@@ -25,8 +25,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 
 ## Credit ##
 
-+ [Andro](https://github.com/cyrilmengin/andro) - by Cyril Mengin.
-    If you like my scheme, then you should give his a try! :)
++ Andro
 + [Adobe Kuler](https://kuler.adobe.com/#themeID/2320307)
 
 ##### *Tips* #####
