@@ -8,8 +8,6 @@ Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
 
 ***
 
-It's based on [Andro](https://github.com/cyrilmengin/andro) color scheme but with more syntax highlighting sweetness.
-
 ##### *Installation* #####
 Just search for `Ciapre` in Package Control & install it. :+1:
 
@@ -25,7 +23,6 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 
 ## Credit ##
 
-+ Andro
 + [Adobe Kuler](https://kuler.adobe.com/#themeID/2320307)
 
 ##### *Tips* #####
