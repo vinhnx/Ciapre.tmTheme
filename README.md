@@ -2,13 +2,8 @@
 
 Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
 
-***
-
-**[!] Using Xcode? I also made one for you [here](https://github.com/vinhnx/Ciapre-Xcode-theme) :)**
-
-***
-
 ##### *Installation* #####
+
 Just search for `Ciapre` in Package Control & install it. :+1:
 
 Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo ... wait for it ... rite scheme in `Ciapre Color Scheme`!
@@ -36,13 +31,6 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 
 Well, you can do whatever you want. This is not big deal.
 
-The only thing I ask is to share this on twitter/facebook/app.net or whatever social network .. or just tell your friends; so that more and more devs who using Sublime Text could know this color scheme. This is not rocket science code, but with more eye-pleasing color scheme for a text editor, I hope we could produce more efficient code! ;)
-
-So, I am appreciated if you do! Thank you!
-
-
 ***
 
 ~ Hope you like it! :)
-
-I'm [@vinhnx](http://twitter.com/vinhnx/) on Twitter and [@vinh](http://app.net/vinh) on App.Net.
