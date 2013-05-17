@@ -4,9 +4,9 @@ Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
 
 ##### *Installation* #####
 
-Just search for `Ciapre` in Package Control & install it. :+1:
+Just search for `Ciapre` in Package Control & install it.
 
-Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo ... wait for it ... rite scheme in `Ciapre Color Scheme`!
+Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desired one!
 
 ## Comes with two different colors  ##
 
@@ -23,7 +23,8 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your favo .
 ##### *Tips* #####
 --
 
-* Use great with [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit. You won't be disappointed!
+* Great companion [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit.
+
 * Font used `Consolas` - comes with Windows, but alternatively, the open-sourced [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) is pretty close to it
     * For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
