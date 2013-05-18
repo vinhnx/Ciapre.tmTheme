@@ -33,6 +33,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 ## License ##
 
 Well, you can do whatever you want. This is not big deal.
+BTW, you can submit your patch if you want to improve this theme! :)
 
 ***
 
