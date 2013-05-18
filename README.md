@@ -16,6 +16,8 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 ##### :star: Blue
 ![Ciapre](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapreblue.png)
 
+*sample code from jQuery source*
+
 ## Credit ##
 
 + [Adobe Kuler](https://kuler.adobe.com/#themeID/2320307)
