@@ -20,7 +20,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 
 ## Credit ##
 
-+ [Adobe Kuler](https://kuler.adobe.com/#themeID/2320307)
++ [MOON Color theme](https://kuler.adobe.com/#themeID/2320307)
 
 ##### *Tips* #####
 --
@@ -32,7 +32,9 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 
 ## SublimeText 3 ##
 
-Tested on ST3. It's just color scheme, so no problem found. :)
+Tested on ST3. 
+
+It's just some color with xml, so no problem found. :)
 
 ## License ##
 
