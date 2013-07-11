@@ -20,7 +20,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 
 ## Credit ##
 
-+ [MOON Color theme](https://kuler.adobe.com/#themeID/2320307)
++ [MOON: Color](https://kuler.adobe.com/#themeID/2320307)
 
 ##### *Tips* #####
 --
@@ -34,7 +34,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 
 Tested on ST3. 
 
-It's just some color with xml, so no problem found. :)
+It's just some HEX strings within messy XML, so no problem found. :)
 
 ## License ##
 
