@@ -26,9 +26,9 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 --
 
 * Great companion [Aqua](https://github.com/cafarm/aqua-theme) theme - Prokit.
-
+   * There is also a better fork of it -> [Refined](https://github.com/danro/refined-theme).
 * Font used `Consolas` - comes with Windows, but alternatively, the open-sourced [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) is pretty close to it
-    * For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
+   * For more programming fonts, visit [http://slant.co/topics/67/~what-are-the-best-programming-fonts](http://slant.co/topics/67/~what-are-the-best-programming-fonts).
 
 ## SublimeText 3 ##
 
