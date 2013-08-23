@@ -53,7 +53,3 @@ There's no license or whatever, all I ask is a virtual high-five :hand:
 ***
 
 ~ Hope you like it! :)
-
-<script data-gittip-username="Vinh"
-src="https://www.gittip.com/assets/widgets/0002.js">
-</script>
