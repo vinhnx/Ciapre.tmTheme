@@ -54,6 +54,6 @@ There's no license or whatever, all I ask is a virtual high-five :hand:
 
 ~ Hope you like it! :)
 
-<iframe style="border: 0; margin: 0; padding: 0;"
-        src="https://www.gittip.com/Vinh/widget.html"
-        width="48pt" height="22pt"></iframe>
+<script data-gittip-username="Vinh"
+src="https://www.gittip.com/assets/widgets/0002.js">
+</script>
