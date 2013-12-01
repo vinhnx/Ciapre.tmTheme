@@ -46,10 +46,6 @@ Tested on ST3.
 
 It's just some HEX strings within messy XML, so no problem found. :)
 
-## License ##
+## What's With The Name? ##
 
-There's no license or whatever, all I ask is a virtual high-five :hand:
-
-***
-
-~ Hope you like it! :)
+Just random, really!
