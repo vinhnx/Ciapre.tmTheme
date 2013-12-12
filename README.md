@@ -49,3 +49,7 @@ It's just some HEX strings within messy XML, so no problem found. :)
 ## What's With The Name? ##
 
 Just random, really!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinhnx/ciapre.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
