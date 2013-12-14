@@ -46,6 +46,12 @@ Tested on ST3.
 
 It's just some HEX strings within messy XML, so no problem found. :)
 
+## Contribution ##
+
+Contributton are very welcome. If you come across to port to another platform based on the color pallete above, please consider sending me a Pull Request.
+
+Thank you!
+
 ## What's With The Name? ##
 
 Just random, really!
