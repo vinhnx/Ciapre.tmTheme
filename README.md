@@ -2,9 +2,12 @@
 
 Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
 
++ https://github.com/vinhnx/Ciapre.tmTheme
++ https://sublime.wbond.net/packages/Ciapre%20Color%20Scheme
+
 ##### *Installation* #####
 
-Just search for `Ciapre` in Package Control & install it.
+Just search for `Ciapre` in Sublime Text's [Package Control Manager](https://sublime.wbond.net/installation) & install it.
 
 Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desired one!
 
