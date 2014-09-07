@@ -61,7 +61,7 @@ Thank you!
 2. [Ciapre for emacs](https://github.com/emacsfodder/tmtheme-to-emacs/blob/master/generatedThemes/ciapre-theme.el)
 3. [Ciapre for Jetbrains (IDEA) and iTerm2](https://github.com/zdj/themes#ciapreitermcolors)
 4. [Red Planet - A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.](https://github.com/eliquious/Red-Planet-Theme)
-5. [My own Sublime Text2 / Text Mate theme - the original](https://github.com/vinhnx/Ciapre.tmTheme)
+5. [My own Xcode theme](https://github.com/vinhnx/Ciapre-Xcode-theme)
 
 Thanks all for your works! :beer:
 
