@@ -68,7 +68,3 @@ Thanks all for your works! :beer:
 ## What's With The Name? ##
 
 Just random, really!
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinhnx/ciapre.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
