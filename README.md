@@ -68,3 +68,9 @@ Thanks all for your works! :beer:
 ## What's With The Name? ##
 
 Just random, really!
+
+## Patreon ##
+
+I also have a Patreon in case you want to support my work. Thank you in advance!
+
+https://www.patreon.com/vinhnx
