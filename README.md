@@ -3,7 +3,7 @@
 Ciapre - an easy on the eyes Sublime Text/TextMate color scheme.
 
 + https://github.com/vinhnx/Ciapre.tmTheme
-+ https://sublime.wbond.net/packages/Ciapre%20Color%20Scheme
++ https://packagecontrol.io/packages/Ciapre%20Color%20Scheme
 
 ##### *Installation* #####
 
