@@ -49,6 +49,22 @@ Tested on ST3.
 
 It's just some HEX strings within messy XML, so no problem found. :)
 
+**NOTE on SublimeText 3 build 3143**
+
+Press `COMMAND+D` to open preferences editor
+
+insert or modify "color_scheme" property to point to the installed Ciapre package
+
+```xml
+"color_scheme": "Packages/Ciapre Color Scheme/Ciapre.tmTheme"
+```
+
+If the theme is not found or not working, open this folder and check if it exists.
+
+`~/Library/Application Support/Sublime Text 3/Packages/Ciapre Color Scheme`
+
+If it doesn't exist, please try to install from Package Control and try again.
+
 ## Contribution ##
 
 Contributton are very welcome. If you come across to port to another platform based on the color pallete above, please consider sending me a Pull Request.
