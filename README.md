@@ -14,7 +14,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 ## Comes with two different colors  ##
 
 ##### :star: Dark
-![Ciapre Black](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapredark.png)
+![Ciapre Black](https://raw.githubusercontent.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapredark.png)
 
   * [Color Pallete](https://kuler.adobe.com/Ciapre-dark-color-theme-2695140/)
 `#D9487D #262626 #BFB38F #D99A4E #BF4545`
@@ -22,7 +22,7 @@ Then, in menu bar, browse to `Preferences > Color Scheme` and choose your desire
 
 
 ##### :star: Blue
-![Ciapre](https://raw.github.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapreblue.png)
+![Ciapre](https://raw.githubusercontent.com/vinhnx/Ciapre.tmTheme/master/screenshot/ciapreblue.png)
 
   * [Pallete](https://kuler.adobe.com/Ciapre-blue-color-theme-2695141/)
 `#D9487D #383B73 #171C26 #BFB38F #A63333`
