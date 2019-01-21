@@ -78,6 +78,7 @@ Thank you!
 3. [Ciapre for Jetbrains (IDEA) and iTerm2](https://github.com/zdj/themes#ciapreitermcolors)
 4. [Red Planet - A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.](https://github.com/eliquious/Red-Planet-Theme)
 5. [My own Xcode theme](https://github.com/vinhnx/Ciapre-Xcode-theme)
+6. [Ciapre theme for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=konart.ciapre) :rocket:
 
 Thanks all for your works! :beer:
 
