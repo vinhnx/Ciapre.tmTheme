@@ -91,3 +91,7 @@ Just random, really!
 I also have a Patreon in case you want to support my work. Thank you in advance!
 
 https://www.patreon.com/vinhnx
+
+## Footnote ##
+
+I really really love this theme, I was just a stoke in inspriration a long while ago. So please help me spread this to the world if you like this theme. Thank you!
