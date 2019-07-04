@@ -73,12 +73,13 @@ Thank you!
 
 # Ciapre on Other Platforms #
 
-1. [CotEditor themes by Naotaka Morimoto](http://www.naotaka.com/coteditorthemes/#Vinh-Nguyen)
-2. [Ciapre for emacs](https://github.com/emacsfodder/tmtheme-to-emacs/blob/master/generatedThemes/ciapre-theme.el)
-3. [Ciapre for Jetbrains (IDEA) and iTerm2](https://github.com/zdj/themes#ciapreitermcolors)
-4. [Red Planet - A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.](https://github.com/eliquious/Red-Planet-Theme)
-5. [My own Xcode theme](https://github.com/vinhnx/Ciapre-Xcode-theme)
-6. [Ciapre theme for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=konart.ciapre) :rocket:
++ [CotEditor themes by Naotaka Morimoto](http://www.naotaka.com/coteditorthemes/#Vinh-Nguyen)
++ [Ciapre for emacs](https://github.com/emacsfodder/tmtheme-to-emacs/blob/master/generatedThemes/ciapre-theme.el)
++ [Ciapre for Jetbrains (IDEA) and iTerm2](https://github.com/zdj/themes#ciapreitermcolors)
++ [Red Planet - A Sublime Text 2 color scheme based off of the "Ciapre Dark" theme with slight mods.](https://github.com/eliquious/Red-Planet-Theme)
++ [My own Xcode theme](https://github.com/vinhnx/Ciapre-Xcode-theme)
++ [Ciapre theme for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=konart.ciapre) :rocket:
++ [macOS Terminal theme](https://github.com/lysyi3m/macos-terminal-themes#ciapre)
 
 Thanks all for your works! :beer:
 
